@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "string": "c",
+        "task.h": "c",
+        "esp_log.h": "c",
+        "esp_event_loop.h": "c",
+        "lep_task.h": "c",
+        "rsp_task.h": "c",
+        "system_config.h": "c",
+        "lepton_utilities.h": "c",
+        "sockets.h": "c"
+    }
+}
